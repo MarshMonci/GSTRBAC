@@ -1,0 +1,74 @@
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.dll
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.pdb
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.pdb
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csprojAssemblyReference.cache
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CoreCompileInputs.cache
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CopyComplete
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.dll
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csprojAssemblyReference.cache
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CopyComplete
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CopyComplete
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CopyComplete
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\Rebex.Castle.dll
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.dll
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.pdb
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\BouncyCastle.Crypto.dll
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\Rebex.Castle.dll
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.pdb
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll.config
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.AssemblyReference.cache
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CoreCompileInputs.cache
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CopyComplete
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.dll
+C:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.pdb
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.dll
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.pdb
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\BouncyCastle.Crypto.dll
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\Rebex.Castle.dll
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.pdb
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll.config
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csprojAssemblyReference.cache
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CoreCompileInputs.cache
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CopyComplete
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.dll
+D:\GSTRBAC C# Projects 2\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\ACMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\BouncyCastle.Crypto.dll
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\Rebex.Castle.dll
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Release\SerializablePackages.dll.config
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.AssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.csproj.CopyComplete
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\Heavyweight Implementation\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Release\ACMSocketAsync.pdb

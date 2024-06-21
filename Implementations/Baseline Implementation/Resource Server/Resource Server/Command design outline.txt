@@ -1,0 +1,42 @@
+Command Design Pattern For User Actions
+Too superfluous for actions regarding only text files, but could be useful when other file types are included
+
+IActivity.cs INTERFACE
+	void execute()
+	void undo()
+
+TextFileActivity.cs  Implements Activity
+	void ReadActivity()	
+	void WriteActivity()
+	void ReadWriteActivity()
+
+PDFFileActivity.cs implements Activity
+	ReadActivity()
+	WriteActivity()
+
+Resources (Receiver)
+Text Files, PDF files
+
+ABSTRACT Activity Implements IActivity
+Points to resource 
+
+ReadTextFileActivity.cs implements IActivity
+	execute()
+		Includes the code used to read the command
+	undo()
+		Simple access command, no need for undo()
+
+WriteToTextFileActivity.cs implements IActivity
+	execute()
+		Include code used to write to the file
+	undo()
+		unimplemented, figure out how to remove text from file
+ 
+ReadWriteTextFileActivity.cs implements IActivity
+	execute()
+		Include code to commit read and write to the file
+	undo()
+		ditto to write; remove from file  
+
+Client
+Calls to Activity

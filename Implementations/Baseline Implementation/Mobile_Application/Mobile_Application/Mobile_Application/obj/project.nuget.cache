@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MFvhk8FsolaEQrvpRde++/yZoFJyliAPjkOs4URcwcQtBnf7JcuTtuCsXrIw33q91YYsffb5P8zpSh5S83jryQ==",
+  "success": true,
+  "projectFilePath": "E:\\Programming Dump\\GSTRBAC C# Projects\\Mobile_Application\\Mobile_Application\\Mobile_Application\\Mobile_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

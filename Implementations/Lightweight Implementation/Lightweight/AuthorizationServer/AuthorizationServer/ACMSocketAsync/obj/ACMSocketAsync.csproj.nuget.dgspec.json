@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RBenton\\Desktop\\Lightweight\\AuthorizationServer\\AuthorizationServer\\ACMSocketAsync\\ACMSocketAsync.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RBenton\\Desktop\\Lightweight\\AuthorizationServer\\AuthorizationServer\\ACMSocketAsync\\ACMSocketAsync.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RBenton\\Desktop\\Lightweight\\AuthorizationServer\\AuthorizationServer\\ACMSocketAsync\\ACMSocketAsync.csproj",
+        "projectName": "ACMSocketAsync",
+        "projectPath": "C:\\Users\\RBenton\\Desktop\\Lightweight\\AuthorizationServer\\AuthorizationServer\\ACMSocketAsync\\ACMSocketAsync.csproj",
+        "packagesPath": "C:\\Users\\RBenton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RBenton\\Desktop\\Lightweight\\AuthorizationServer\\AuthorizationServer\\ACMSocketAsync\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RBenton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\RBenton\\Desktop\\Lightweight\\RAM (Server) (2)\\RAM (Server)\\SerializablePackages\\SerializablePackages.csproj": {
+                "projectPath": "C:\\Users\\RBenton\\Desktop\\Lightweight\\RAM (Server) (2)\\RAM (Server)\\SerializablePackages\\SerializablePackages.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.10, )"
+            },
+            "Rebex.Elliptic.Castle": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\RBenton\\Desktop\\Lightweight\\RAM (Server) (2)\\RAM (Server)\\SerializablePackages\\SerializablePackages.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RBenton\\Desktop\\Lightweight\\RAM (Server) (2)\\RAM (Server)\\SerializablePackages\\SerializablePackages.csproj",
+        "projectName": "SerializablePackages",
+        "projectPath": "C:\\Users\\RBenton\\Desktop\\Lightweight\\RAM (Server) (2)\\RAM (Server)\\SerializablePackages\\SerializablePackages.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

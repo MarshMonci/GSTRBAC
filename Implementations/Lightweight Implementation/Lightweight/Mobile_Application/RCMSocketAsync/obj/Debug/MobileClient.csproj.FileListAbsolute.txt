@@ -1,0 +1,306 @@
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll.config
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CopyComplete
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Licensing.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll.config
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CopyComplete
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CopyComplete
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CopyComplete
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Rebex.Castle.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Rebex.Castle.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.pdb
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Rebex.Castle.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Plugin.Permissions.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Rebex.Castle.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfBusyIndicator.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfPdfViewer.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfProgressBar.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Syncfusion.SfRangeSlider.XForms.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\obj\Debug\MobileClient.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\RCMSocketAsync\obj\Debug\RCMSocketAsync.pdb

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lv5bt9PmxTlJ22e+Ea5mrfHKkqNruVoHxvm/Ae/yDsEvZ1VQkvOX+hDqHjWSr9E5RxPB4QLhOAPbmcsPM0xUhQ==",
+  "success": true,
+  "projectFilePath": "E:\\Programming Dump\\GSTRBAC C# Projects\\Heavyweight Implementation\\Mobile_Application\\Mobile_Application\\Mobile_Application.iOS\\Mobile_Application.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Spinorex\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.2\\microsoft.netcore.platforms.5.0.2.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\rebex.elliptic.castle\\1.2.1\\rebex.elliptic.castle.1.2.1.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\syncfusion.licensing\\19.1.0.69\\syncfusion.licensing.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\syncfusion.xamarin.compression\\19.1.0.69\\syncfusion.xamarin.compression.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\syncfusion.xamarin.core\\19.1.0.69\\syncfusion.xamarin.core.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\syncfusion.xamarin.pdf\\19.1.0.69\\syncfusion.xamarin.pdf.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\syncfusion.xamarin.sfbusyindicator\\19.1.0.69\\syncfusion.xamarin.sfbusyindicator.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\syncfusion.xamarin.sfpdfviewer\\19.1.0.69\\syncfusion.xamarin.sfpdfviewer.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\syncfusion.xamarin.sfprogressbar\\19.1.0.69\\syncfusion.xamarin.sfprogressbar.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\syncfusion.xamarin.sfrangeslider\\19.1.0.69\\syncfusion.xamarin.sfrangeslider.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.1\\system.security.cryptography.algorithms.4.3.1.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

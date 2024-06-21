@@ -1,0 +1,105 @@
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csprojAssemblyReference.cache
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CopyComplete
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Rebex.Castle.xml
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Rebex.Castle.xml
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Backup\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Rebex.Castle.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Lightweight\GSTRBAC C# Projects 2\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Rebex.Castle.xml
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\bin\Debug\Xamarin.Essentials.xml
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Lightweight\RAM (Server) (2)\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.AssemblyReference.cache

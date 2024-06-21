@@ -1,0 +1,41 @@
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\bin\Release\SerializablePackages.dll
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\bin\Release\SerializablePackages.pdb
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\obj\Release\SerializablePackages.csprojAssemblyReference.cache
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\obj\Release\SerializablePackages.csproj.CoreCompileInputs.cache
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\obj\Release\SerializablePackages.dll
+D:\Downloads\Server Project Thing\RAM (Server)\SerializablePackages\obj\Release\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\SerializablePackages.dll.config
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.Compression.Portable.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.Core.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.Licensing.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.Pdf.Portable.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.SfBusyIndicator.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.SfPdfViewer.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.SfProgressBar.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.SfRangeSlider.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\System.Numerics.Vectors.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Essentials.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Forms.Core.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Forms.Platform.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Forms.Xaml.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.Compression.Portable.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.Core.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.Pdf.Portable.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.SfBusyIndicator.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.SfPdfViewer.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.SfProgressBar.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Syncfusion.SfRangeSlider.XForms.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\System.Numerics.Vectors.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Essentials.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Essentials.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Forms.Core.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Forms.Core.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Forms.Xaml.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Release\Xamarin.Forms.Xaml.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Release\SerializablePackages.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Release\SerializablePackages.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Release\SerializablePackages.csproj.CopyComplete
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Release\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Release\SerializablePackages.pdb

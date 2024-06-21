@@ -1,0 +1,279 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Mobile_Application/1.0.0": {
+        "dependencies": {
+          "MobileClient": "1.0.0",
+          "NETStandard.Library": "2.0.3",
+          "Syncfusion.Xamarin.Pdf": "18.4.0.42",
+          "Syncfusion.Xamarin.SfPdfViewer": "18.4.0.42",
+          "Xamarin.Essentials": "1.6.1",
+          "Xamarin.Forms": "5.0.0.1931"
+        },
+        "runtime": {
+          "Mobile_Application.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Syncfusion.Licensing/18.4.0.42": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "18.4.0.42",
+            "fileVersion": "18.4.0.42"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.Compression/18.4.0.42": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "18.4451.0.42",
+            "fileVersion": "18.4451.0.42"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.Core/18.4.0.42": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.4.0.42",
+          "Xamarin.Forms": "5.0.0.1931"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Core.XForms.dll": {
+            "assemblyVersion": "18.4451.0.42",
+            "fileVersion": "18.4451.0.42"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.Pdf/18.4.0.42": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.4.0.42",
+          "Syncfusion.Xamarin.Compression": "18.4.0.42"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Pdf.Portable.dll": {
+            "assemblyVersion": "18.4451.0.42",
+            "fileVersion": "18.4451.0.42"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfBusyIndicator/18.4.0.42": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "18.4.0.42",
+          "Xamarin.Forms": "5.0.0.1931"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfBusyIndicator.XForms.dll": {
+            "assemblyVersion": "18.4451.0.42",
+            "fileVersion": "18.4451.0.42"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfPdfViewer/18.4.0.42": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "18.4.0.42",
+          "Syncfusion.Xamarin.Pdf": "18.4.0.42",
+          "Syncfusion.Xamarin.SfBusyIndicator": "18.4.0.42",
+          "Syncfusion.Xamarin.SfProgressBar": "18.4.0.42",
+          "Syncfusion.Xamarin.SfRangeSlider": "18.4.0.42",
+          "Xamarin.Forms": "5.0.0.1931"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfPdfViewer.XForms.dll": {
+            "assemblyVersion": "18.4451.0.42",
+            "fileVersion": "18.4451.0.42"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfProgressBar/18.4.0.42": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "18.4.0.42",
+          "Xamarin.Forms": "5.0.0.1931"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfProgressBar.XForms.dll": {
+            "assemblyVersion": "18.4451.0.42",
+            "fileVersion": "18.4451.0.42"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfRangeSlider/18.4.0.42": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "18.4.0.42",
+          "Xamarin.Forms": "5.0.0.1931"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfRangeSlider.XForms.dll": {
+            "assemblyVersion": "18.4451.0.42",
+            "fileVersion": "18.4451.0.42"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.6.1": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/5.0.0.1931": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.616"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.616"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.616"
+          }
+        }
+      },
+      "MobileClient/1.0.0": {
+        "dependencies": {
+          "SerializablePackages": "1.0.0"
+        },
+        "runtime": {
+          "RCMSocketAsync.dll": {}
+        }
+      },
+      "SerializablePackages/1.0.0": {
+        "runtime": {
+          "SerializablePackages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mobile_Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/18.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dlYBCpklcF+RHel6sD9itkAme0Tz4ZOqAnfySbul814iEiWJWDA8Y0hDST7M5ifr4S846VZXfZDYV9jebztLYw==",
+      "path": "syncfusion.licensing/18.4.0.42",
+      "hashPath": "syncfusion.licensing.18.4.0.42.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.Compression/18.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Omn578rT/6sw0fppRXZ3h4LG1CqqUnH1NOiAhXIn45dtZ6nqOWsbW6sB5LUqHEFyXGrKB4iuBlSRDI3n/iavSA==",
+      "path": "syncfusion.xamarin.compression/18.4.0.42",
+      "hashPath": "syncfusion.xamarin.compression.18.4.0.42.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.Core/18.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+hYZzp/NPH1l020tNMLHa/+CW5lY8deKw+XKs1FMTY+6H8wEkC50Sv1GUCqtsedTwM1GLUm6Y2tjpxWVLI3vXg==",
+      "path": "syncfusion.xamarin.core/18.4.0.42",
+      "hashPath": "syncfusion.xamarin.core.18.4.0.42.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.Pdf/18.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sKjhyYaSdPsJE61GZF+ItaC+nn5nxcx7Rtv9I1ywi64nxpULybP750eB0d+BspFHgk/ot3lI+otTolwdaLSYUA==",
+      "path": "syncfusion.xamarin.pdf/18.4.0.42",
+      "hashPath": "syncfusion.xamarin.pdf.18.4.0.42.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfBusyIndicator/18.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0VCOiRw3mCVT6r0Am/Heypl5ZdVCy9ZTd7NTK0lRdhxj6MGA1sOusON9J4n9lkpvjet47M99i/8SF12sVpsU8g==",
+      "path": "syncfusion.xamarin.sfbusyindicator/18.4.0.42",
+      "hashPath": "syncfusion.xamarin.sfbusyindicator.18.4.0.42.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfPdfViewer/18.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-owMAlx5hp8bMyjQKucqjtAQM4rd1EUjxCC3yiloNKOA4Ck3+903RC30HRnQDBC+OwCDQFRIiqVqQjlj4wehkeQ==",
+      "path": "syncfusion.xamarin.sfpdfviewer/18.4.0.42",
+      "hashPath": "syncfusion.xamarin.sfpdfviewer.18.4.0.42.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfProgressBar/18.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0EdvQa1anvZukHemXVG7adlXjIIqVgbf+KforsJvn4Vg35drJUWhiVUlebUk9ulQ7Q+aIfxLT1Gxd4VFVr9VJg==",
+      "path": "syncfusion.xamarin.sfprogressbar/18.4.0.42",
+      "hashPath": "syncfusion.xamarin.sfprogressbar.18.4.0.42.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfRangeSlider/18.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r1gmZM+7q5FFEd26PYdn6BrGP3LXP0TkWe9H2YSzDSIABlrLOAuMOZkP+uVNxS8RcqopOweBH5ylnmAw7+wU7Q==",
+      "path": "syncfusion.xamarin.sfrangeslider/18.4.0.42",
+      "hashPath": "syncfusion.xamarin.sfrangeslider.18.4.0.42.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Essentials/1.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gG1Bp4j4bpJQ0dp9MeBJQJ9c8xULauIlhc7Cx5Qw4J2K1c+4Glq5n+gkb9Pm0UA/CevXVqLK5ZXmZkuYI52FgA==",
+      "path": "xamarin.essentials/1.6.1",
+      "hashPath": "xamarin.essentials.1.6.1.nupkg.sha512"
+    },
+    "Xamarin.Forms/5.0.0.1931": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5xe9Oxtx2lHC0pinXGRLoUMEav3qxdtNemDF1UxCcxHcwv/Zcso2LhYw1LnemYhtESa6QGOD8dGM31A2pmteVg==",
+      "path": "xamarin.forms/5.0.0.1931",
+      "hashPath": "xamarin.forms.5.0.0.1931.nupkg.sha512"
+    },
+    "MobileClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SerializablePackages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

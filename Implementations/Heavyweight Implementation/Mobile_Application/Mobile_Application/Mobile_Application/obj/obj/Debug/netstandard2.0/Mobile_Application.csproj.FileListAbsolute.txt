@@ -1,0 +1,213 @@
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.deps.json
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\ref\Mobile_Application.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll.config
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CopyComplete
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.deps.json
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CopyComplete
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\REU Research\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.deps.json
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.deps.json
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\Backup\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.deps.json
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CopyComplete
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\RBenton\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.deps.json
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.pdb
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.pdb
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll.config
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.pdb
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll.config
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.AssemblyReference.cache
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CopyComplete
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\Users\Repair Shop\Desktop\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.deps.json
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.dll
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.pdb
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.pdb
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll.config
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.pdb
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll.config
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.AssemblyReference.cache
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CopyComplete
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+C:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.deps.json
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.dll
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\ref\Mobile_Application.dll
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\Mobile_Application.pdb
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.pdb
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\RCMSocketAsync.dll.config
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.pdb
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\bin\Debug\netstandard2.0\SerializablePackages.dll.config
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csprojAssemblyReference.cache
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\logInPage.xaml.g.cs
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ReadWritePage.xaml.g.cs
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfoInputs.cache
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.AssemblyInfo.cs
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CoreCompileInputs.cache
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.csproj.CopyComplete
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.dll
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\ref\Mobile_Application.dll
+D:\GSTRBAC C# Projects 2\Mobile_Application\Mobile_Application\Mobile_Application\obj\Debug\netstandard2.0\Mobile_Application.pdb

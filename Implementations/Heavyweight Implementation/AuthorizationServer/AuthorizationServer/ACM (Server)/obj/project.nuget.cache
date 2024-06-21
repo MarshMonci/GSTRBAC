@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcYavuUIw2ss0qnWULYqLyw+vtjzo8Kg7pPCYC+o5Y/Hsmw5JOClAEOYRGLCHgFOe1oPrHHsIG1HhADKeY3ELw==",
+  "success": true,
+  "projectFilePath": "E:\\Programming Dump\\GSTRBAC C# Projects\\Heavyweight Implementation\\AuthorizationServer\\AuthorizationServer\\ACM (Server)\\Authorization Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Spinorex\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512",
+    "C:\\Users\\Spinorex\\.nuget\\packages\\rebex.elliptic.castle\\1.2.1\\rebex.elliptic.castle.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

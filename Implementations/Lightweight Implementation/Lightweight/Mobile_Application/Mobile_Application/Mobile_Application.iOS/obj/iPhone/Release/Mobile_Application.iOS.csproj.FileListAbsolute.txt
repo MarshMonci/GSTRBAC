@@ -1,0 +1,163 @@
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Mobile_Application.iOS.exe
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\RCMSocketAsync.dll.mdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Licensing.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Compression.Portable.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.iOS.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Pdf.Portable.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfBusyIndicator.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfBusyIndicator.iOS.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfPdfViewer.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfPdfViewer.XForms.iOS.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfProgressBar.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfProgressBar.XForms.iOS.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfRangeSlider.XForms.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfRangeSlider.XForms.iOS.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfRangeSlider.iOS.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Mobile_Application.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\RCMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\RCMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\RCMSocketAsync.dll.config
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Mobile_Application.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\SerializablePackages.dll.config
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\SerializablePackages.dll.mdb
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\optimized\
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\Mobile_Application.iOS.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\Mobile_Application.iOS.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\Mobile_Application.iOS.csproj.CopyComplete
+E:\Programming Dump\GSTRBAC C# Projects\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\Mobile_Application.iOS.exe
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Mobile_Application.iOS.exe
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\BouncyCastle.Crypto.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Rebex.Castle.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Licensing.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Compression.Portable.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.iOS.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.Pdf.Portable.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfBusyIndicator.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfBusyIndicator.XForms.iOS.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfBusyIndicator.iOS.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfPdfViewer.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfPdfViewer.XForms.iOS.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfProgressBar.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfProgressBar.XForms.iOS.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfRangeSlider.XForms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfRangeSlider.XForms.iOS.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Syncfusion.SfRangeSlider.iOS.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\System.Security.Cryptography.Cng.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Mobile_Application.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\RCMSocketAsync.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\SerializablePackages.dll
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\RCMSocketAsync.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\RCMSocketAsync.dll.config
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\RCMSocketAsync.dll.mdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\Mobile_Application.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\SerializablePackages.pdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\SerializablePackages.dll.config
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\bin\iPhone\Release\SerializablePackages.dll.mdb
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\optimized\
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\Mobile_Application.iOS.csproj.AssemblyReference.cache
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\Mobile_Application.iOS.csproj.CoreCompileInputs.cache
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\Mobile_Application.iOS.csproj.CopyComplete
+C:\Users\RBenton\Desktop\Lightweight\Mobile_Application\Mobile_Application\Mobile_Application.iOS\obj\iPhone\Release\Mobile_Application.iOS.exe

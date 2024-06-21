@@ -1,0 +1,24 @@
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\bin\Debug\ACM (Server).exe.config
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\bin\Debug\ACM (Server).exe
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\bin\Debug\ACM (Server).pdb
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\bin\Debug\ACMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\bin\Debug\ACMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).csproj.CopyComplete
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).exe
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).pdb
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACM (Server)\bin\Debug\SerializablePackages.pdb
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\bin\Debug\ACM (Server).exe.config
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\bin\Debug\ACM (Server).exe
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\bin\Debug\ACM (Server).pdb
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\bin\Debug\ACMSocketAsync.dll
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\bin\Debug\SerializablePackages.dll
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\bin\Debug\ACMSocketAsync.pdb
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\bin\Debug\SerializablePackages.pdb
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).csprojAssemblyReference.cache
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).csproj.CoreCompileInputs.cache
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).csproj.CopyComplete
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).exe
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACM (Server)\obj\Debug\ACM (Server).pdb

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Mobile_Application.MainPage"
+             NavigationPage.HasBackButton="False">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="logOutButton" 
+                     Text="Log out"
+                     Clicked="logOutButton_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout Margin="10,0">
+        <Label Text="Location:"/>
+        <Picker x:Name="locatonSelection"
+               Title="Location">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Home</x:String>
+                    <x:String>Development Office</x:String>
+                    <x:String>TestingOffice</x:String>
+                    <x:String>DirectorOffice</x:String>
+                    <x:String>Department Building</x:String>
+                    <x:String>University of Texas</x:String>
+                    <x:String>Current Location</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Label Text="Current Time:"/>
+        <Picker x:Name="timeIntervalSelection"
+               Title="Current Time">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Current Time</x:String>
+                    <x:String>5:00 A.M.</x:String>
+                    <x:String>8:00 A.M.</x:String>
+                    <x:String>12:00 P.M.</x:String>
+                    <x:String>3:00 P.M.</x:String>
+                    <x:String>6:00 P.M.</x:String>
+                    <x:String>10:00 P.M.</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Label Text="Role:"/>
+        <Picker x:Name="roleSelection"
+               Title="Role">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Software Engineer</x:String>
+                    <x:String>Software Programmer</x:String>
+                    <x:String>Test Engineer</x:String>
+                    <x:String>Programmer Supervisor</x:String>
+                    <x:String>Test Supervisor</x:String>
+                    <x:String>Project Lead</x:String>
+                    <x:String>Computer Engineer</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Label Text="Activity:"/>
+        <Picker x:Name="activitySelection"
+               Title="Activity">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Read</x:String>
+                    <x:String>Read/Write</x:String>
+                    <x:String>Write</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Label Text="Resource:"/>
+        <Picker x:Name="resourceSelection"
+               Title="Resource">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Test Log #1</x:String>
+                    <x:String>Test Log #2</x:String>
+                    <x:String>Test Log #3</x:String>
+                    <x:String>Test Log #4 (PDF)</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Button x:Name="requestButton"
+                Text="Request Resources"
+                Margin="0,50,0,0"
+                Clicked="requestButton_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,46 @@
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\bin\Debug\ACMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\bin\Debug\ACMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\bin\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CopyComplete
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\bin\Debug\ACMSocketAsync.dll
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\bin\Debug\ACMSocketAsync.pdb
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\bin\Debug\SerializablePackages.dll
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\bin\Debug\SerializablePackages.pdb
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csprojAssemblyReference.cache
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CopyComplete
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.dll
+C:\Users\repea\Desktop\GSTRBAC\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.pdb
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\bin\Debug\ACMSocketAsync.dll
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\bin\Debug\ACMSocketAsync.pdb
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\bin\Debug\SerializablePackages.dll
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\bin\Debug\SerializablePackages.pdb
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csprojAssemblyReference.cache
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CoreCompileInputs.cache
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CopyComplete
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.dll
+C:\Users\repea\Desktop\Temp\MarshalProject\ACM (Server)\ACMSocketAsync\obj\Debug\ACMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\ACMSocketAsync.dll
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\ACMSocketAsync.pdb
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CopyComplete
+E:\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\SerializablePackages.dll.config
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\ACMSocketAsync.dll
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\ACMSocketAsync.pdb
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\bin\Debug\SerializablePackages.pdb
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.csprojAssemblyReference.cache
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CoreCompileInputs.cache
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.csproj.CopyComplete
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.dll
+E:\Programming Dump\Programming Dump\GSTRBAC C# Projects\AuthorizationServer\AuthorizationServer\ACMSocketAsync\obj\Debug\ACMSocketAsync.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KBfEJOc4UPzENYjorXJhiF18E3X6PFUx/NuXArbtvu0W6bIvUewUs97pu0ZAMMK+bPlAwSIr9qQEHGq046rrHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RBenton\\Desktop\\Lightweight\\AuthorizationServer\\AuthorizationServer\\ACM (Server)\\Authorization Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RBenton\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\rebex.elliptic.castle\\1.2.1\\rebex.elliptic.castle.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

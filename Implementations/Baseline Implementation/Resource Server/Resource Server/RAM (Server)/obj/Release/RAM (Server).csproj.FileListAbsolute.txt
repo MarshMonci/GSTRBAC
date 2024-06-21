@@ -1,0 +1,12 @@
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\bin\Release\RAM (Server).exe.config
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\bin\Release\RAM (Server).exe
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\bin\Release\RAM (Server).pdb
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\bin\Release\RAMSocketAsync.dll
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\bin\Release\SerializablePackages.dll
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\bin\Release\RAMSocketAsync.pdb
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\bin\Release\SerializablePackages.pdb
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\obj\Release\RAM (Server).csprojAssemblyReference.cache
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\obj\Release\RAM (Server).csproj.CoreCompileInputs.cache
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\obj\Release\RAM (Server).csproj.CopyComplete
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\obj\Release\RAM (Server).exe
+D:\Downloads\Server Project Thing\RAM (Server)\RAM (Server)\obj\Release\RAM (Server).pdb

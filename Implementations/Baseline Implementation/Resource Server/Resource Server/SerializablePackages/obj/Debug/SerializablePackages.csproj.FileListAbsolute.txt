@@ -1,0 +1,26 @@
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\bin\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\RAM (Server)\SerializablePackages\obj\Debug\SerializablePackages.csprojAssemblyReference.cache
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Debug\SerializablePackages.csproj.CoreCompileInputs.cache
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Debug\SerializablePackages.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Debug\SerializablePackages.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\SerializablePackages.dll.config
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Debug\SerializablePackages.csproj.CopyComplete
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Forms.Core.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Forms.Core.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\System.Numerics.Vectors.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Essentials.dll
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\System.Numerics.Vectors.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Essentials.pdb
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\bin\Debug\Xamarin.Essentials.xml
+E:\Programming Dump\GSTRBAC C# Projects\Resource Server\Resource Server\SerializablePackages\obj\Debug\SerializablePackages.csproj.AssemblyReference.cache

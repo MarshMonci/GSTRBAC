@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "dEd5oNR+iJEkA7iz2lP1ndac6V0d+XApow+4pI1kHoD++4aoAjnDl4p5tMWxENNtAnRbrltfDw9OPuIn+0lOmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RBenton\\Desktop\\Lightweight\\Mobile_Application\\Mobile_Application\\Mobile_Application.iOS\\Mobile_Application.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RBenton\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.2\\microsoft.netcore.platforms.5.0.2.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\portable.bouncycastle\\1.8.10\\portable.bouncycastle.1.8.10.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\rebex.elliptic.castle\\1.2.1\\rebex.elliptic.castle.1.2.1.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\syncfusion.licensing\\19.1.0.69\\syncfusion.licensing.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\syncfusion.xamarin.compression\\19.1.0.69\\syncfusion.xamarin.compression.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\syncfusion.xamarin.core\\19.1.0.69\\syncfusion.xamarin.core.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\syncfusion.xamarin.pdf\\19.1.0.69\\syncfusion.xamarin.pdf.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\syncfusion.xamarin.sfbusyindicator\\19.1.0.69\\syncfusion.xamarin.sfbusyindicator.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\syncfusion.xamarin.sfpdfviewer\\19.1.0.69\\syncfusion.xamarin.sfpdfviewer.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\syncfusion.xamarin.sfprogressbar\\19.1.0.69\\syncfusion.xamarin.sfprogressbar.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\syncfusion.xamarin.sfrangeslider\\19.1.0.69\\syncfusion.xamarin.sfrangeslider.19.1.0.69.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.1\\system.security.cryptography.algorithms.4.3.1.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\RBenton\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

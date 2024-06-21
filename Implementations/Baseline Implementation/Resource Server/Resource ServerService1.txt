@@ -1,0 +1,4 @@
+These are [PATIENT-001]'s medical records.
+
+Additional Notes:
+Hello
